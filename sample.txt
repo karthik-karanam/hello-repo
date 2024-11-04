@@ -1,2 +1,4 @@
 this is new sample text file created using git bash
+new branch is created dev 1
+dev1 accesssed sample.txt
 
